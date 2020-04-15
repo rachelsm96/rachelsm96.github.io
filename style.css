@@ -1,0 +1,24 @@
+ h2{
+    /*color: purple;  */
+    background: -webkit-linear-gradient(rgb(95, 12, 121), rgb(77, 8, 238));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;  
+ }
+
+ a{
+     color: green; 
+ }
+ 
+.jumbotron{
+    color: purple;
+    background-color: black;
+}
+ 
+ body{
+     margin: 0 auto;
+     max-width: 768px;
+     background-color: black;
+     text-align: center;
+
+ }
+ 
