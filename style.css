@@ -1,20 +1,32 @@
-
- .icon{
-     color:purple; 
- }
- 
-.jumbotron{
-    color: purple;
-    background-color: transparent;
+#resume {
+  color: orchid;
 }
- 
- body{
-     margin: 0 auto;
-     min-height: 100vh;
-     /* background-image: linear-gradient(rgb(10, 10, 10), rgb(102, 100, 98)); */
-     background-color: black;
-     text-align: center;
-     transition: linear .25s;
 
- }
- 
+#github {
+  color: rgb(10, 161, 10);
+}
+
+#linkedin {
+  color: mediumblue;
+}
+
+.jumbotron {
+  color: black;
+  background-color: transparent;
+}
+
+body {
+  margin: 0 auto;
+  min-height: 100vh;
+  /* background-image: linear-gradient(rgb(10, 10, 10), rgb(102, 100, 98)); */
+  background-color: gainsboro;
+  text-align: center;
+  transition: linear 0.25s;
+}
+
+span {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  color: black;
+}
