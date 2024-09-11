@@ -18,7 +18,6 @@
 body {
   margin: 0 auto;
   min-height: 100vh;
-  /* background-image: linear-gradient(rgb(10, 10, 10), rgb(102, 100, 98)); */
   background-color: gainsboro;
   text-align: center;
   transition: linear 0.25s;
